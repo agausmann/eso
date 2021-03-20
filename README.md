@@ -2,6 +2,8 @@
 
 Random esoteric languages which I decide are funny enough to implement.
 
+- [PUBERTY](https://esolangs.org/wiki/PUBERTY) - `cargo run puberty SCRIPT-FILE`
+
 ## Goals
 
 - Zero dependencies (besides `std`) - I write everything myself.
