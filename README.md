@@ -13,8 +13,8 @@ command-line argument.
 
 ## Goals
 
-- Zero dependencies - I write everything myself. Some exceptions are made for
-  QoL improvements, including `thiserror`/`anyhow` for error handling and
+- As few dependencies as possible - I write almost everything myself. Some exceptions
+  are made for QoL improvements, including `thiserror`/`anyhow` for error handling and
 `rand` for RNG for probabilistic languages.
 
 - Over all else, have fun!
